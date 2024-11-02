@@ -5,7 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine on Azure](https://github.com/quincypickens/virtual-machine)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/quincypickens/configuring-AD)
-  - [Building an Intuition for DNS](https://github.com/quincypickens/intuition)
+  - [Building an Intuition for DNS](https://github.com/quincypickens/intuition-for-DNS)
     
 <h2>🤳Connect with me:</h2>
 
