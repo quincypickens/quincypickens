@@ -5,7 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine on Azure](https://github.com/quincypickens/virtual-machine)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/quincypickens/configuring-AD)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/quincypickens/azure-network-protocols)
+  - [Building an Intuition for DNS](https://github.com/quincypickens/intuition)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/quincypickens/osticket-prereqs)
