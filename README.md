@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine on Azure](https://github.com/quincypickens/virtual-machine)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/quincypickens/configure-Ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/quincypickens/configure-AD)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/quincypickens/azure-network-protocols)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
